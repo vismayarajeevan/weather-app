@@ -193,18 +193,24 @@ body {
     }
     .search-container input{
         width: 70%;
+       
     }
+    .search-container input::placeholder {
+        font-size: 0.7rem;
+    }
+    
    
     
+    
 .app-header h1 {
-    font-size: 1.8rem;
+    font-size: 1.2rem;
    
     
 }
 
 .subtitle {
     
-    font-size: 0.8rem;
+    font-size: 0.7rem;
 }
     .humidity , .wind{
         font-size: 12px;
