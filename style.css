@@ -186,12 +186,26 @@ body {
 
 @media (max-width: 480px) {
     .container {
+        margin: 0px;
         width: 100%;
-        max-width: 3500px;
-        padding: 1.25rem;
+        max-width: 300px;
+        padding: 1rem;
     }
-
+    .search-container input{
+        width: 70%;
+    }
    
+    
+.app-header h1 {
+    font-size: 1.8rem;
+   
+    
+}
+
+.subtitle {
+    
+    font-size: 0.8rem;
+}
     .humidity , .wind{
         font-size: 12px;
         margin-top: -6px;
