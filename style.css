@@ -187,13 +187,11 @@ body {
 @media (max-width: 480px) {
     .container {
         width: 100%;
-        max-width: 400px;
+        max-width: 3500px;
         padding: 1.25rem;
     }
 
-    .weather-details {
-        grid-template-columns: 1fr;
-    }
+   
     .humidity , .wind{
         font-size: 12px;
         margin-top: -6px;
