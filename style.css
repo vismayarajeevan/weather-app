@@ -193,7 +193,7 @@ body {
     }
     .search-container input{
         width: 70%;
-        padding: 0.4rem 1.5rem;
+        padding: 0.3rem 1rem;
        
     }
     .search-container input::placeholder {
